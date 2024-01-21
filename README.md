@@ -13,3 +13,5 @@ Campus: Daftar-e-Jamat-e-Islami (Landhi 6)
 Contact No: 0315-2849277
 <br>
 Timings: 7:00 PM to 9:00 PM
+<br>
+Teacher Name: Ghufran Kamaluddin
